@@ -1,20 +1,15 @@
 body{
-    margin: 1rem;
-    padding-left: 18rem;
-    padding-right: 18rem;
+    margin: 10px;
+    padding: 18px;
     background: #ff0000;
     font-family: 'Inter', sans-serif;
 }
 
-h1 {
-    margin: 0;
-    font-weight: 400;
-}
-
-h2 {
-    margin: 0;
-    font-weight: 400;
-    display: inline;
+.text {
+    margin: 5px;
+    padding: 5px;
+    float: center;
+    color: #dc143c;
 }
 
 #mybtn{
@@ -28,11 +23,17 @@ h2 {
 }
 
 
-#mybtn:hover {background: #fff}
+#mybtn:hover {
+    background: #fff
+}
 
-.scholarship {color: #800000}
+.scholarship {
+    color: #800000
+}
 
-#more {display: none;}
+#more {
+    display: none;
+}
 
 .links {
     color: #6495ed;
