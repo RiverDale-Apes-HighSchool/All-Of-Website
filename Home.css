@@ -1,0 +1,64 @@
+
+
+
+.container{
+    width:80%;
+    margin-top: auto;
+}
+
+.a{
+    background-color: red;
+}
+
+.About{
+    border:5px solid black;
+    padding: auto;
+    width: 400px;
+    height: 440px;
+    background-color: red;
+    text-align: center;
+}
+
+body {
+color:white;
+}
+
+.carousel .item {
+  height: 200px;
+}       
+
+.Hello{
+    width: 75%;
+    margin:15px;
+    margin-top: auto;
+    border: 5px solid black;    
+}    
+   
+.ll-carousel-img{
+    height: 350px;
+    width:20%;
+    
+}
+
+.Ape1{
+    width:50px;
+    height:70px;
+    grid-row:left;
+}
+.ape{
+    max-width:300px;
+    max-height: 500px;
+}
+.Ape2{
+    width:25px;
+    height:30px;
+    max-height: 20px;
+    margin-top: 50%;
+}
+.ap{
+    max-width:300px;
+    max-height: 500px;
+}
+.back{
+    background-color: rgb(255, 255, 255);
+}
