@@ -43,5 +43,6 @@ color: white;
     text-align: center;
 }
 body {
-    background: linear-gradient(to right, white, red);;
+    background: linear-gradient(to right, white, red);
+    font-family: Arial;
 }
